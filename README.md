@@ -1,49 +1,78 @@
-## 🚀 Full-Stack Developer | MERN, Web3 & Modern UI/UX
+# 👋 Hi, I'm Rupam Giri  
+### 🚀 Full-Stack Developer | Laravel, PHP & Modern Frontend  
 
-I'm a third-year BCA student from West Bengal, India, currently pursuing my degree at MAKAUT University.
+I’m a **BCA student** from **MAKAUT University, West Bengal (India)**.  
+I love building **websites and web apps** that are simple, fast, and easy to use.  
 
-I am passionate about building high-impact, full-stack applications that solve real-world problems.My expertise lies in the **MERN stack**, but I'm also actively exploring **Web3** technologies. I have a strong command of scalable front-end architecture, secure **JWT-based authentication**, and creating visually rich, interactive interfaces with tools like **Figma, GSAP, and Three.js**.
-
-I am always eager to learn, improve, and deliver high-quality, user-centric products.
-
----
-
-Here are the primary technologies and tools I work with:
-
-| Category | Technologies |
-| :--- | :--- |
-| **Fron-tend** | React.js, Next.js, JavaScript (ES6+), Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST APIs, JWT Authentication, MongoDB |
-| **UI/UX & Graphics** | Figma (UI/UX Design), GSAP, Three.js |
-| **Real-Time & AI** | Socket.IO, Google Gemini API, Google Maps API |
-| **Tools & Platforms** | Git, GitHub, Vercel, Netlify, Postman, VS Code|
+I mostly work with **Laravel and PHP**, and I also enjoy designing clean and modern user interfaces using **HTML, CSS, JavaScript, and Tailwind CSS**.  
+My goal is to create projects that **help people** and make work easier.
 
 ---
 
-## 💻 Featured Projects
+## 🧩 My Skills
 
-Here are a couple of projects I'm proud of.
-
-### 1. AI Quiz Generator
-A full-stack web application that leverages the **Google Gemini API** to auto-generate quizzes from uploaded PDF notes.
-
-* **Key Features:** Secure JWT authentication, PDF text extraction, dynamic quiz rendering, customizable quiz settings, and AI-based explanations.
-* **Tech Stack:** MERN Stack (React, Node.js, Express), MongoDB, Google Gemini API.
-* **Links:** [Live Link](https://aiquizv2.vercel.app) | [GitHub Repository](https://github.com/sayan20004/aiquiz)
-
-### 2. Uber Clone (Real-Time Ride Sharing)
-A real-time ride-sharing platform engineered with the MERN stack and **Socket.IO** for live location updates and ride management.
-
-* **Key Features:** Integrated **Google Maps API** for route visualization, distance/time calculation, and location autocomplete.Features JWT & OTP verification, fare estimation, and vehicle selection.
-* **Tech Stack:** React (Vite, Tailwind), Node.js, Express, MongoDB, Socket.IO, Google Maps API.
-* **Links:** [Live Link](https://uberclonev2.vercel.app) | [GitHub Repository](https://github.com/sayan20004/UberClone)
+| Area | Technologies |
+| :-- | :-- |
+| 🖥️ **Frontend** | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap |
+| ⚙️ **Backend** | PHP, Laravel, MySQL, REST API |
+| 🧠 **Main Skills** | Login System, CRUD Operations, Database Design, MVC Pattern |
+| 🧰 **Tools I Use** | Git, GitHub, XAMPP, Postman, VS Code |
+| 🌱 **Learning Now** | React.js and API Integration |
 
 ---
 
-## 📫 Let's Connect!
+## 💻 My Projects
 
-I'm actively looking for opportunities and am always open to connecting with new people.
+### 🛒 Nexora – E-Commerce Website  
+> A full online shopping site with user and admin dashboards.  
+🔹 **Features:** Login system, cart, product filter, admin panel, and order tracking.  
+🔹 **Tech Used:** Laravel, PHP, MySQL, Bootstrap, JS  
+🔗 [GitHub Link](https://github.com/rupam0007/E-CommerceInLaravel)
 
-* **Portfolio:** [sayanmaity](https://sayanmaity.vercel.app)
-* **LinkedIn:** [linkedin.com/in/sayan-maitydev](https://linkedin.com/in/sayan-maitydev)
-* **Email:** [sayanmaity600@gmail.com](mailto:sayanmaity600@gmail.com)
+---
+
+### 🗳️ Smart Voting System  
+> Online voting app that allows each user to vote only once.  
+🔹 **Features:** Voter and admin login, candidate setup, vote count, and simple design.  
+🔹 **Tech Used:** PHP, MySQL, Tailwind CSS, JavaScript  
+🔗 [GitHub Link](https://github.com/rupam0007/Voting-System)
+
+---
+
+### ✍️ Blogging App  
+> A blog site where users can write, edit, and delete posts.  
+🔹 **Features:** Blog post system, likes, comments, and user-friendly layout.  
+🔹 **Tech Used:** Laravel, PHP, MySQL, HTML, CSS, JS  
+🔗 [GitHub Link](https://github.com/rupam0007/Blogging-App)
+
+---
+
+## 🎓 Education
+
+**MAKAUT University** — *BCA (Bachelor of Computer Applications)*  
+📅 *2023 – 2027* | SGPA: 8.59, 8.45, 8.9, 7.26  
+
+**Gobra Indranarayan Kshetra Mohan High School** — Higher Secondary (2023) | 80.8%  
+**Baita Mahendranath High School** — Secondary (2021) | 76.57%
+
+---
+
+## 🎮 About Me
+
+When I’m not coding, I like to:  
+- 🎧 Listen to music  
+- 🏏 Play cricket  
+- 💭 Learn new things about technology  
+
+---
+
+## 📬 Contact Me
+
+📧 **Email:** [girirupam25@gmail.com](mailto:girirupam25@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/giri-rupamdev](https://linkedin.com/in/giri-rupamdev)  
+🐙 **GitHub:** [github.com/rupam0007](https://github.com/rupam0007)
+
+---
+
+## ⚡ Fun Fact  
+> I enjoy making websites that look simple but work smart.  
